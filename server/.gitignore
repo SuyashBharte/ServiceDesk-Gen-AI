@@ -1,0 +1,11 @@
+node_modules
+.env
+auth_debug.log
+server_error.log
+db_check.log
+check_consistency.js
+test_db.js
+test_analytics.js
+final_seeder.js
+.agent
+.gemini
